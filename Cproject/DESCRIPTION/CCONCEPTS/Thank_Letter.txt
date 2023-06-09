@@ -1,0 +1,52 @@
+	
+
+
+			ROLE				NAME
+
+
+		GTK/Ul Team			1)Karan S Khedkar.
+							2)Jay Jathar.
+							3)Ganesh Bagav.
+							4)Mangesh Manjare.
+							5)Harshal Borse.
+
+
+		C - Concepts			1)Sachin Shetkar.
+							2)Mayur Mahajan.
+							3)Disha A Bardiya.
+
+
+		Numbers				1)Aditi Jagdale.
+							2)Vaishnavi Jadhav.
+							3)Rahul Hatkar.
+							4)Ajay Bhosle.
+
+		Array				1)Ganesh Bagav.
+							2)Prashant Divekar.
+							3)Atharv Jadhav.
+							4)Akansha Nagargoje.
+							5)Nikhil Verma.
+
+		Pattern				1)Piyush Verma.
+							2)Vishal Lohbande.
+				
+
+		String 				1)Govid Dindewad.
+							2)Shreyash Hambir.
+							3)Rohit Korade.
+							4)Mangesh Manjare.
+
+		Data Structure			1)Harshal Borse.
+							2)Aakanksha Malusare.
+							3)Shraddha Tole.	
+
+			
+		The project is completed uneder the guidance of  
+		Shashi Sir , Sachin Sir and Core2web Family.
+
+
+
+
+
+
+
